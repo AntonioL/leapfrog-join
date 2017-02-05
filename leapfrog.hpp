@@ -5,7 +5,7 @@
  * For more information about the algorithm you can read the following paper:
  * "Leapfrog Triejoin: a worst-case optimal join algorithm", Todd L. Veldhuizen
  *
- * The algorithm exhibits amortized cost O(Nmin * log(Nmax/Nmin))
+ * The algorithm exhibits cost O(Nmin * log(Nmax/Nmin))
  *     where Nmax is the size of the biggest relation
  *           Nmin is the size of the smallest relation
  */
